@@ -8,6 +8,9 @@
 </head>
 <body>
 
+  <!-- header component -->
+  <x-header></x-header>
+  
   @yield('content')
 
   @livewireScripts
