@@ -30,4 +30,4 @@ Creating a simple blog in <a href="https://travis-ci.org/laravel/framework">Lara
 > You can now visit the app in your browser by visiting
 > [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
-<p>I have worked this based on <a href="https://api.daily.dev/r/Bw56vaPkL">Create a Blog in Laravel and Livewire</a></p>
+<p>Source: <a href="https://api.daily.dev/r/Bw56vaPkL">Create a Blog in Laravel and Livewire</a></p>
